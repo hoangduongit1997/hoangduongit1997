@@ -1,6 +1,6 @@
 # Hi, I'm Hoang Duong 👋
 
-**Senior Flutter Developer** · 5+ years · Ho Chi Minh City, Vietnam
+**Senior Flutter Developer** · 7+ years · Ho Chi Minh City, Vietnam
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hoangduongit1997-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hoangduongit1997)
 [![Portfolio](https://img.shields.io/badge/Portfolio-hoangduongit1997.github.io-111827?style=flat&logo=githubpages)](https://hoangduongit1997.github.io/portfolio/)
@@ -10,7 +10,7 @@
 
 ## About
 
-Senior Flutter Developer with 5+ years building and shipping cross-platform mobile apps (iOS & Android) across **Healthcare**, **EdTech**, **E-Commerce**, and **Entertainment**. Focused on Clean Architecture, smooth UX, and crash-free releases. Strong experience with Singpass integration, native bridging (Java/Swift), CI/CD pipelines, and mentoring teammates.
+Senior Flutter Developer with 7+ years building and shipping cross-platform mobile apps (iOS & Android) across **Healthcare**, **EdTech**, **E-Commerce**, and **Entertainment**. Focused on Clean Architecture, smooth UX, and crash-free releases. Strong experience with Singpass integration, native bridging (Java/Swift), CI/CD pipelines, and mentoring teammates.
 
 | | |
 |---|---|
